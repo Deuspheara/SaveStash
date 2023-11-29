@@ -1,8 +1,8 @@
-# Task Manager App
+# SaveStash App
 
 ## Overview
 
-The Task Manager App is a SwiftUI-based iOS application that helps users manage and organize their tasks efficiently. This app allows users to create, edit, and delete tasks, set due dates, and track estimated time and rewards associated with each task.
+The SaveStash App is a SwiftUI-based iOS application that helps users manage and organize their tasks efficiently. This app allows users to create, edit, and delete tasks, set due dates, and track estimated time and rewards associated with each task.
 
 ## Features
 
